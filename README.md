@@ -4,27 +4,24 @@
 
 ### Eae 👋, sou o Daniel, aluno de Engenharia de Software na PUC Minas 👨‍🏫
 
-<div align="center">
+<<div align="center">
 <table>
 <tr>
-<td>
-<a href="https://github.com/daniel-alv-1" target="_blank">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" height="50px"/>
-</a>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/daniel-alv-1" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td>
-<a href="mailto:dnnn.alv@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/gmail.png" width="50px" height="50px"/>
-</a>
+
+
 </td>
-<td>
-<a href="https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318" target="_blank">
-<img src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/linkedin.png" width="50px" height="50px"/>
-</a>
+
 </td>
-</tr>
-</table>
-</div>
+<td><a href="https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+
+
+</td>
 
 ---
 
