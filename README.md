@@ -17,8 +17,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" height="50px"/>
 </a>
 </td>
-<td>
-</td>
 </tr>
 </table>
 </div>
