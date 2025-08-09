@@ -1,7 +1,5 @@
 ---
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Banner de Tecnologia" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 8px;" />
-</div>
+
 <!-- APRESENTAÇÃO -->
 <h2 align="center">👋 Eae, sou o Daniel</h2>
 <p align="center">
