@@ -9,8 +9,6 @@
 <h2 align="center">👋 Olá, eu sou o Daniel</h2>
 <p align="center">
 🎓 Estudante de Engenharia de Software na PUC Minas<br>
-💻 Apaixonado por tecnologia, programação e inovação<br>
-🚀 Sempre aprendendo e explorando novas ideias
 </p>
 
 ---
