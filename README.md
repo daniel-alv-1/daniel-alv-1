@@ -40,23 +40,3 @@
 
 
 
-<div align="center" style="margin-top: 40px;">
-  <svg width="100%" height="60" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    <path fill="#1F2937" fill-opacity="0.8" d="
-      M0,30 
-      C360,50 720,10 1080,30 
-      C1260,40 1440,20 1440,30 
-      L1440,60 L0,60 Z">
-      <animate 
-        attributeName="d" 
-        dur="6s" 
-        repeatCount="indefinite" 
-        values="
-          M0,30 C360,50 720,10 1080,30 C1260,40 1440,20 1440,30 L1440,60 L0,60 Z;
-          M0,30 C360,10 720,50 1080,30 C1260,20 1440,40 1440,30 L1440,60 L0,60 Z;
-          M0,30 C360,50 720,10 1080,30 C1260,40 1440,20 1440,30 L1440,60 L0,60 Z
-        "
-      />
-    </path>
-  </svg>
-</div>
