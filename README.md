@@ -6,7 +6,7 @@
 ---
 
 <!-- APRESENTAÇÃO -->
-<h2 align="center">👋 Eae, eu sou o Daniel</h2>
+<h2 align="center">👋 Eae, sou o Daniel</h2>
 <p align="center">
 🎓 Estudante de Engenharia de Software na PUC Minas<br>
 </p>
