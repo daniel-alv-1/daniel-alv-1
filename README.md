@@ -1,11 +1,5 @@
 ---
 
-<!-- GIF ANIMADO -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Descrição do GIF" width="600px" />
-</div>
-
-
 <!-- APRESENTAÇÃO -->
 <h2 align="center">👋 Eae, sou o Daniel</h2>
 <p align="center">
@@ -49,3 +43,36 @@
 </div>
 
 ---
+
+<!-- ONDAS ANIMADAS -->
+<div align="center" style="margin-top: 40px;">
+  <svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" style="width: 100%; height: 60px;">
+    <path fill="#1F2937" fill-opacity="0.6">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0 10 Q 30 20 60 10 T 120 10 V 28 H 0 Z;
+          M0 12 Q 30 0 60 12 T 120 12 V 28 H 0 Z;
+          M0 10 Q 30 20 60 10 T 120 10 V 28 H 0 Z
+        "
+      />
+    </path>
+    <path fill="#374151" fill-opacity="0.4">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" begin="2s"
+        values="
+          M0 12 Q 30 22 60 12 T 120 12 V 28 H 0 Z;
+          M0 14 Q 30 4 60 14 T 120 14 V 28 H 0 Z;
+          M0 12 Q 30 22 60 12 T 120 12 V 28 H 0 Z
+        "
+      />
+    </path>
+    <path fill="#4B5563" fill-opacity="0.2">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" begin="4s"
+        values="
+          M0 14 Q 30 24 60 14 T 120 14 V 28 H 0 Z;
+          M0 16 Q 30 6 60 16 T 120 16 V 28 H 0 Z;
+          M0 14 Q 30 24 60 14 T 120 14 V 28 H 0 Z
+        "
+      />
+    </path>
+  </svg>
+</div>
