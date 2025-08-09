@@ -9,7 +9,7 @@
 <tr>
 <td>
 <a href="https://github.com/daniel-alv-1" target="_blank">
-<img src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/github.png" width="50px" height="50px"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" height="50px"/>
 </a>
 </td>
 <td>
