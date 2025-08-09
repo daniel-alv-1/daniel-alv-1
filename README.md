@@ -7,7 +7,7 @@
 
 
 ### Eae 👋, sou o Daniel, Aluno no curso de Engenharia De Software na PUC Minas 👨‍🏫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318/)
+
 
 <div align="center">
 <table>
@@ -15,7 +15,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/daniel-alv-1" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/daniel-alv-1" target="_blank"><img src="https://github.com/" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:dnnn.alv@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
