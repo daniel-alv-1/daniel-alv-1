@@ -14,7 +14,7 @@
 </td>
 <td>
 <a href="https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318" target="_blank">
-<img src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/linkedin.png" width="50px" height="50px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" height="50px"/>
 </a>
 </td>
 </tr>
