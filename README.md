@@ -6,28 +6,9 @@
 🎓 Estudante de Engenharia de Software na PUC Minas<br>
 </p>
 
+<!-- ONDA ANIMADA -->
 <div align="center" style="margin: 30px 0;">
-  <svg width="120" height="60" viewBox="0 0 120 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .wave {
-        stroke: #2563eb;
-        stroke-width: 3;
-        fill: none;
-        stroke-linecap: round;
-        animation: waveAnim 3s ease-in-out infinite;
-      }
-
-      @keyframes waveAnim {
-        0%, 100% {
-          stroke-dashoffset: 0;
-        }
-        50% {
-          stroke-dashoffset: 30;
-        }
-      }
-    </style>
-    <path class="wave" d="M0 30 Q15 10 30 30 T60 30 T90 30 T120 30" stroke-dasharray="30" stroke-dashoffset="0"/>
-  </svg>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Onda animada" width="120" />
 </div>
 
 ---
