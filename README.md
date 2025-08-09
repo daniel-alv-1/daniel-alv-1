@@ -1,5 +1,5 @@
-<div align="center">
-<img alt="Header" src="file:///C:/Users/smdan/Downloads/github-header-banner%20(1).png"/>
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
 </div>
 
 ### Eae 👋, sou o Daniel, aluno de Engenharia de Software na PUC Minas 👨‍🏫
