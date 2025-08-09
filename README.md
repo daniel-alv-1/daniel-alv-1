@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Header" src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/header.png"/>
+<img alt="Header" src="file:///C:/Users/smdan/Downloads/github-header-banner%20(1).png"/>
 </div>
 
 ### Eae 👋, sou o Daniel, aluno de Engenharia de Software na PUC Minas 👨‍🏫
