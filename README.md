@@ -44,33 +44,23 @@
 
 ---
 
-<!-- ONDAS ANIMADAS -->
+
+
 <div align="center" style="margin-top: 40px;">
-  <svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" style="width: 100%; height: 60px;">
-    <path fill="#1F2937" fill-opacity="0.6">
-      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+  <svg width="100%" height="60" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path fill="#1F2937" fill-opacity="0.8" d="
+      M0,30 
+      C360,50 720,10 1080,30 
+      C1260,40 1440,20 1440,30 
+      L1440,60 L0,60 Z">
+      <animate 
+        attributeName="d" 
+        dur="6s" 
+        repeatCount="indefinite" 
         values="
-          M0 10 Q 30 20 60 10 T 120 10 V 28 H 0 Z;
-          M0 12 Q 30 0 60 12 T 120 12 V 28 H 0 Z;
-          M0 10 Q 30 20 60 10 T 120 10 V 28 H 0 Z
-        "
-      />
-    </path>
-    <path fill="#374151" fill-opacity="0.4">
-      <animate attributeName="d" dur="8s" repeatCount="indefinite" begin="2s"
-        values="
-          M0 12 Q 30 22 60 12 T 120 12 V 28 H 0 Z;
-          M0 14 Q 30 4 60 14 T 120 14 V 28 H 0 Z;
-          M0 12 Q 30 22 60 12 T 120 12 V 28 H 0 Z
-        "
-      />
-    </path>
-    <path fill="#4B5563" fill-opacity="0.2">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite" begin="4s"
-        values="
-          M0 14 Q 30 24 60 14 T 120 14 V 28 H 0 Z;
-          M0 16 Q 30 6 60 16 T 120 16 V 28 H 0 Z;
-          M0 14 Q 30 24 60 14 T 120 14 V 28 H 0 Z
+          M0,30 C360,50 720,10 1080,30 C1260,40 1440,20 1440,30 L1440,60 L0,60 Z;
+          M0,30 C360,10 720,50 1080,30 C1260,20 1440,40 1440,30 L1440,60 L0,60 Z;
+          M0,30 C360,50 720,10 1080,30 C1260,40 1440,20 1440,30 L1440,60 L0,60 Z
         "
       />
     </path>
