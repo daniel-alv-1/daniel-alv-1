@@ -4,24 +4,22 @@
 
 ### Eae 👋, sou o Daniel, aluno de Engenharia de Software na PUC Minas 👨‍🏫
 
-<<div align="center">
+<div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/daniel-alv-1" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td>
+<a href="https://github.com/daniel-alv-1" target="_blank">
+<img src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/github.png" width="50px" height="50px"/>
+</a>
 </td>
-
-
+<td>
+<a href="https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318" target="_blank">
+<img src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/linkedin.png" width="50px" height="50px"/>
+</a>
 </td>
-
-</td>
-<td><a href="https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-
-
-</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -42,4 +40,3 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
