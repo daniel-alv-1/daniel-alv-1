@@ -1,5 +1,12 @@
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+</div>
 
-### Eae, sou o Daniel
+
+
+
+
+### Eae 👋, sou o Daniel, Atualmente sou aluno no curso de Engenharia De Software na PUC Minas 👨‍🏫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318/)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-alv-1&show_icons=true&theme=radical)
