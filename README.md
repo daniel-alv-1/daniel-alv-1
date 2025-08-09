@@ -6,11 +6,6 @@
 🎓 Estudante de Engenharia de Software na PUC Minas<br>
 </p>
 
-<!-- ONDA ANIMADA -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Onda animada" width="120" />
-</div>
-
 ---
 
 <!-- ÍCONES DE CONTATO -->
