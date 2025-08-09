@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" height="50px"/>
 </a>
+</td>
+<td>
 <a href="mailto:dnnn.alv@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px" height="50px"/>
 </a>
@@ -23,6 +25,7 @@
 </tr>
 </table>
 </div>
+
 
 ---
 
