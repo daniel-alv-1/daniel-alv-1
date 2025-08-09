@@ -1,7 +1,8 @@
 <!-- BANNER -->
 <div align="center">
-<img alt="Header" src="https://raw.githubusercontent.com/daniel-alv-1/daniel-alv-1/main/img/header.png"/>
+<img alt="Header" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
 </div>
+
 
 ---
 
