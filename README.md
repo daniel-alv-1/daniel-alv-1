@@ -1,5 +1,3 @@
-
-
 ---
 
 <!-- APRESENTAÇÃO -->
@@ -7,6 +5,30 @@
 <p align="center">
 🎓 Estudante de Engenharia de Software na PUC Minas<br>
 </p>
+
+<div align="center" style="margin: 30px 0;">
+  <svg width="120" height="60" viewBox="0 0 120 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .wave {
+        stroke: #2563eb;
+        stroke-width: 3;
+        fill: none;
+        stroke-linecap: round;
+        animation: waveAnim 3s ease-in-out infinite;
+      }
+
+      @keyframes waveAnim {
+        0%, 100% {
+          stroke-dashoffset: 0;
+        }
+        50% {
+          stroke-dashoffset: 30;
+        }
+      }
+    </style>
+    <path class="wave" d="M0 30 Q15 10 30 30 T60 30 T90 30 T120 30" stroke-dasharray="30" stroke-dashoffset="0"/>
+  </svg>
+</div>
 
 ---
 
@@ -45,9 +67,3 @@
 </div>
 
 ---
-
-
-<!-- ANIMAÇÃO DE ONDA -->
-<div align="center">
-<img alt="Header" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3NjI2OTMsIm5iZiI6MTc1NDc2MjM5MywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA5VDE3NTk1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNDczZWVlY2VhMTUxNDgxNzVlZTc5NTcyODg0OTI2Y2E2NmMwYTU0MGU0YjM1NDNkZGM3MTJjNmUxZDQyODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFCO0OsrKIXii8BFivTmWoOcRU-FWippYtJbRCEhzTk"/>
-</div>
