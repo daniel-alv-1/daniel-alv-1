@@ -1,12 +1,5 @@
 ---
 
-<!-- BANNER -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="./878c5fa3-a6f9-4c22-bc16-3202fae8544f.png" alt="Banner Daniel Alves" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 8px;" />
-</div>
-
-
-
 <!-- APRESENTAÇÃO -->
 <h2 align="center">👋 Eae, sou o Daniel</h2>
 <p align="center">
