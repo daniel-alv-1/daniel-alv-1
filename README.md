@@ -40,7 +40,7 @@
 
 <!-- ANIMAÇÃO DE ONDA -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1:0f0c29,100:302b63&height=100&section=footer"/>
 </div>
 
 
