@@ -9,7 +9,7 @@
 ### Eae 👋, sou o Daniel, Aluno no curso de Engenharia De Software na PUC Minas 👨‍🏫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alves-oliveira-2b29b0318/)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-alv-1&show_icons=true&theme=radical)
+
 
 -----
 
