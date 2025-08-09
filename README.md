@@ -1,5 +1,11 @@
 ---
 
+<!-- GIF ANIMADO -->
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3NjI2OTMsIm5iZiI6MTc1NDc2MjM5MywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA5VDE3NTk1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNDczZWVlY2VhMTUxNDgxNzVlZTc5NTcyODg0OTI2Y2E2NmMwYTU0MGU0YjM1NDNkZGM3MTJjNmUxZDQyODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFCO0OsrKIXii8BFivTmWoOcRU-FWippYtJbRCEhzTk" alt="Descrição do GIF" width="300px" />
+</div>
+
+
 <!-- APRESENTAÇÃO -->
 <h2 align="center">👋 Eae, sou o Daniel</h2>
 <p align="center">
