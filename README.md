@@ -18,13 +18,14 @@
 </a>
 </td>
 <td>
-<a href="mailto:dnnn.alv@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:dnnn.alv@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Daniel,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20você." target="_blank" rel="noopener noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px" height="50px"/>
 </a>
 </td>
 </tr>
 </table>
 </div>
+
 
 
 ---
